@@ -10,6 +10,8 @@ from dotenv import load_dotenv
 from langchain.cache import InMemoryCache
 from langchain.memory import ConversationBufferMemory 
 from langchain_core.prompts import PromptTemplate, ChatPromptTemplate, MessagesPlaceholder
+from langchain_community.cache import InMemoryCache  # Instead of from langchain.cache
+from pydantic import BaseModel  # Instead of from langchain_core.pydantic_v1
 import langchain
 
 def load_data(data_path):
