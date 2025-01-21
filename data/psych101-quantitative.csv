@@ -1,0 +1,26 @@
+student_id,age,gender,ethnicity,first_gen_student,international_student,midterm_grade,final_exam,assignment_avg,participation_score,attendance_rate,study_hours_per_week,group_work_score,office_hours_attended
+PSY101_F24_001,19,Female,Asian,No,No,88,92,90,85,95,6,88,3
+PSY101_F24_002,18,Male,Hispanic,Yes,No,75,82,88,95,100,8,92,7
+PSY101_F24_003,20,Non-binary,White,No,No,95,96,94,75,85,4,78,1
+PSY101_F24_004,19,Female,Black,Yes,No,91,89,92,98,98,10,95,8
+PSY101_F24_005,18,Male,Middle Eastern,No,Yes,83,87,85,70,80,5,75,2
+PSY101_F24_006,21,Female,White,No,No,88,91,89,93,92,7,90,5
+PSY101_F24_007,19,Male,Asian,Yes,No,92,94,90,85,88,6,87,4
+PSY101_F24_008,18,Female,Hispanic,Yes,No,78,82,85,90,95,8,88,6
+PSY101_F24_009,20,Male,White,No,No,90,93,91,80,85,5,82,3
+PSY101_F24_010,19,Female,Black,No,No,85,88,87,95,96,7,93,5
+PSY101_F24_011,18,Non-binary,Asian,Yes,Yes,87,85,88,96,98,9,94,7
+PSY101_F24_012,20,Male,White,No,No,93,95,92,75,82,4,77,2
+PSY101_F24_013,19,Female,Black,Yes,No,82,85,87,92,94,8,89,6
+PSY101_F24_014,18,Female,Hispanic,Yes,No,86,89,88,94,96,9,92,7
+PSY101_F24_015,22,Male,White,No,No,91,94,92,88,90,6,86,4
+PSY101_F24_016,19,Female,Asian,No,Yes,84,87,86,93,95,7,90,5
+PSY101_F24_017,20,Male,Middle Eastern,No,Yes,88,90,89,85,87,6,84,4
+PSY101_F24_018,18,Female,White,Yes,No,83,86,85,91,93,8,88,6
+PSY101_F24_019,19,Non-binary,Hispanic,No,No,80,84,86,97,98,9,95,7
+PSY101_F24_020,20,Male,Asian,Yes,Yes,89,92,90,78,82,5,80,3
+PSY101_F24_021,18,Female,White,No,No,81,84,86,94,96,8,91,6
+PSY101_F24_022,21,Male,Black,Yes,No,90,93,91,89,91,7,87,5
+PSY101_F24_023,19,Female,Hispanic,No,No,85,88,87,92,94,7,89,5
+PSY101_F24_024,20,Female,White,No,No,87,89,88,96,97,8,93,6
+PSY101_F24_025,18,Male,Asian,Yes,Yes,92,95,93,88,90,9,86,7
